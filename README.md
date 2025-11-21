@@ -9,7 +9,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Algorithm
 1. 
-2. 
+
 3. 
 4. 
 
